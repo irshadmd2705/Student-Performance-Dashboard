@@ -27,4 +27,4 @@ This project is a Power BI dashboard that analyzes student performance based on 
 - Visual analysis of student performance
   
  ## Dashboard Preview
-![Dashboard](https://raw.githubusercontent.com/irshadmd2705/Student-Performance-Dashboard/main/dashboard.png)
+![Dashboard](https://github.com/irshadmd2705/Student-Performance-Dashboard/blob/main/Dashboard.png?raw=true)
