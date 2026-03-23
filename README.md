@@ -21,5 +21,10 @@ This project is a Power BI dashboard that analyzes student performance based on 
 - Microsoft Power BI
 - Microsoft Excel
 
+ ## Features
+- Interactive slicers for filtering
+- KPI cards for quick insights
+- Visual analysis of student performance
+  
  ## Dashboard Preview
 ![Dashboard](https://raw.githubusercontent.com/irshadmd2705/Student-Performance-Dashboard/main/Screenshot%202026-03-23%20180852.png)
