@@ -22,4 +22,4 @@ This project is a Power BI dashboard that analyzes student performance based on 
 - Microsoft Excel
 
  ## Dashboard Preview
-![Dashboard](https://raw.githubusercontent.com/irshadmd2705/Student---Performance--Dashboard/main/Screenshot%202026-03-23%20180852.png)
+![Dashboard](https://raw.githubusercontent.com/irshadmd2705/Student-Performance-Dashboard/main/Screenshot%202026-03-23%20180852.png)
