@@ -1,4 +1,4 @@
-# Student---Performance--Dashboard
+# Student-Performance-Dashboard
 Power BI dashboard analyzing student performance
 ## Project Overview
 
